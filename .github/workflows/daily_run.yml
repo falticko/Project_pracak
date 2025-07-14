@@ -1,35 +1,48 @@
-name: Denní spuštění skriptu
+name: Stahování pracovních nabídek
 
 on:
   schedule:
-    # Spustí se každý den v 02:00 UTC (nastavte si čas podle potřeby)
-    - cron: '1 9 * * *'
+    # Spustí skript každých 6 hodin (4x denně)
+    - cron: '0 */6 * * *'
+  # Tento řádek umožňuje spustit skript i ručně přes záložku "Actions" na GitHubu
   workflow_dispatch:
 
 jobs:
-  build:
+  scrape-and-commit:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Kontrola kódu
-      uses: actions/checkout@v4
+      # 1. Krok: Klonování tvého repozitáře
+      - name: Klonování repozitáře
+        uses: actions/checkout@v4
 
-    - name: Nastavení Pythonu
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12' # Zde si nastavte požadovanou verzi Pythonu (např. '3.9', '3.10', '3.11')
+      # 2. Krok: Nastavení správné verze Pythonu
+      - name: Nastavení Pythonu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' # Můžeš změnit podle své potřeby
 
-    - name: Instalace závislostí
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests requests 
-        pip install requests bs4 
-        pip install requests time 
-        pip install -r requirements.txt
-        # Pokud váš skript potřebuje nějaké externí knihovny, nainstalujte je zde
-        # např.: pip install requests pandas
-        # Pokud máte soubor requirements.txt, můžete použít:
-        # pip install -r requirements.txt
+      # 3. Krok: Instalace knihoven ze souboru requirements.txt
+      - name: Instalace potřebných knihoven
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Spuštění Python skriptu
-      run: Strankovani_python_old.py # Zde nahraďte 'muj_skript.py' názvem vašeho skriptu
+      # 4. Krok: Spuštění tvého Python skriptu
+      - name: Spuštění skriptu pro získání dat
+        # !!! ZDE ZMĚŇ 'tvuj_skript.py' NA SKUTEČNÝ NÁZEV TVÉHO SOUBORU !!!
+        run: python Strankovani_python_old.py
+
+      # 5. Krok: Nahrání změn (souboru Python_nabidky.txt) zpět do repozitáře
+      - name: Commit a push změn
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add Python_nabidky.txt
+          # Commit se provede pouze v případě, že se soubor změnil
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 Automatická aktualizace pracovních nabídek"
+            git push
+          else
+            echo "Žádné nové pracovní nabídky k aktualizaci."
+          fi 
