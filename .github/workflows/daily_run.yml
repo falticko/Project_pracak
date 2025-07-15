@@ -12,8 +12,12 @@ jobs:
   scrape-and-commit:
     runs-on: ubuntu-latest
 
+    # TOTO JE KLÍČOVÁ ZMĚNA - PŘIDÁNÍ OPRÁVNĚNÍ PRO ZÁPIS
+    permissions:
+      contents: write
+
     steps:
-      # 1. Krok: Klonování vašeho repozitáře, aby měl skript k dispozici všechny soubory
+      # 1. Krok: Klonování vašeho repozitáře
       - name: Klonování repozitáře
         uses: actions/checkout@v4
 
@@ -33,13 +37,12 @@ jobs:
       - name: Spuštění skriptu pro získání dat
         run: python Strankovani_python_old.py
 
-      # 5. Krok: Nahrání změn (souboru Python_nabidky.txt) zpět do repozitáře
+      # 5. Krok: Nahrání změn zpět do repozitáře
       - name: Commit a push změn
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add Python_nabidky.txt
-          # Commit se provede pouze v případě, že se soubor změnil
           if ! git diff --staged --quiet; then
             git commit -m "🤖 Automatická aktualizace pracovních nabídek"
             git push
