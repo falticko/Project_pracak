@@ -2,9 +2,10 @@ name: Stahování pracovních nabídek
 
 on:
   schedule:
-    # Spustí skript každých 6 hodin (4x denně)
+    # Spustí skript každých 6 hodin (v 0:00, 6:00, 12:00, 18:00 UTC)
     - cron: '0 */6 * * *'
-  # Tento řádek umožňuje spustit skript i ručně přes záložku "Actions" na GitHubu
+  
+  # Umožňuje ruční spuštění přes záložku "Actions"
   workflow_dispatch:
 
 jobs:
@@ -12,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Krok: Klonování tvého repozitáře
+      # 1. Krok: Klonování vašeho repozitáře, aby měl skript k dispozici všechny soubory
       - name: Klonování repozitáře
         uses: actions/checkout@v4
 
@@ -20,7 +21,7 @@ jobs:
       - name: Nastavení Pythonu
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12' # Můžeš změnit podle své potřeby
+          python-version: '3.12' 
 
       # 3. Krok: Instalace knihoven ze souboru requirements.txt
       - name: Instalace potřebných knihoven
@@ -28,9 +29,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. Krok: Spuštění tvého Python skriptu
+      # 4. Krok: Spuštění vašeho Python skriptu
       - name: Spuštění skriptu pro získání dat
-        # !!! ZDE ZMĚŇ 'tvuj_skript.py' NA SKUTEČNÝ NÁZEV TVÉHO SOUBORU !!!
         run: python Strankovani_python_old.py
 
       # 5. Krok: Nahrání změn (souboru Python_nabidky.txt) zpět do repozitáře
@@ -45,4 +45,4 @@ jobs:
             git push
           else
             echo "Žádné nové pracovní nabídky k aktualizaci."
-          fi 
+          fi
