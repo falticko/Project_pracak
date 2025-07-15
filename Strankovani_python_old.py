@@ -110,7 +110,7 @@ def main():
     """
     Hlavní funkce, která spustí celý proces.
     """
-    output_file = r"C:\Users\falticko\Documents\Python3\experimenty\Projekt_job\Python_nabidky.txt"  # Název souboru, kam se budou ukládat data
+    output_file = "Python_nabidky.txt"  # Název souboru, kam se budou ukládat data
 
     try:
         with open(output_file, 'w') as soubor:
