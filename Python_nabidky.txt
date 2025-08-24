@@ -1,130 +1,130 @@
 Pozice: Junior Python Developer |Absolventi Elektroenergetiky|
 Firma: Grafton Recruitment s.r.o.
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2000702883/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000702883/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Python programátor – junior
 Firma: MANDÍK, a.s.
 Lokalita: Hostomice
-Odkaz: https://www.jobs.cz/rpd/2000733739/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000733739/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: IT SPECIALISTA  SQL/PYTHON + AZURE, DATABRICKS | OSTRAVA
 Firma: Grafton Recruitment s.r.o.
 Lokalita: Ostrava
-Odkaz: https://www.jobs.cz/rpd/2000702090/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000702090/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Senior Software Engineer (Python)
 Firma: Solar Turbines EAME s.r.o.
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2000639461/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000639461/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Experienced Software Engineer (Python)
 Firma: Solar Turbines EAME s.r.o.
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2000639426/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000639426/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: JavaScript vývojář – junior/senior
 Firma: LinuxBox.cz, s.r.o.
 Lokalita: Ostrava
-Odkaz: https://www.jobs.cz/rpd/2000697903/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000697903/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Embedded Software Developer Junior (m/ž/d)
 Firma: Siemens, s.r.o.
 Lokalita: Brno – Trnitá
-Odkaz: https://www.jobs.cz/rpd/2000720632/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000720632/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Junior Linux administrátor/ka
 Firma: Fio banka, a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000731017/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000731017/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Junior Business Analyst
 Firma: FTMO s.r.o.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000697019/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000697019/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Standard Cells Engineer (junior/senior)
 Firma: onsemi
 Lokalita: Brno – Přízřenice
-Odkaz: https://www.jobs.cz/rpd/2000710100/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000710100/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Ethical hacker junior (m/f)
 Firma: T-Mobile Czech Republic a.s.
 Lokalita: Praha – Chodov
-Odkaz: https://www.jobs.cz/rpd/2000731947/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000731947/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Risk Analyst (Natural disasters + geopolitical expertise) Junior/Senior
 Firma: VOLKSWAGEN GROUP SERVICES, s.r.o.
 Lokalita: Praha – Vysočany
-Odkaz: https://www.jobs.cz/rpd/2000577100/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000577100/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Junior Data Scientist
 Firma: TRASK SOLUTIONS a.s.
 Lokalita: Praha – Krč
-Odkaz: https://www.jobs.cz/rpd/2000626217/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000626217/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Správce integrací (M/Ž)  - vhodné i pro juniory
 Firma: Státní pokladna Centrum sdílených služeb, s. p.
 Lokalita: Praha – Žižkov
-Odkaz: https://www.jobs.cz/rpd/2000666981/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000666981/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Junior Pricing Coordinator
 Firma: Second Foundation a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000616189/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000616189/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Junior Data Analytik/čka – Risk Management (PRAHA)
 Firma: MONETA Money Bank, a.s.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2000729056/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000729056/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Big Data Administrator (junior/medior)
 Firma: Komerční banka, a.s.
 Lokalita: Praha – Stodůlky
-Odkaz: https://www.jobs.cz/rpd/2000718265/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000718265/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: IT audit – Junior  (Praha)
 Firma: KPMG Česká republika, s.r.o.
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2000479830/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000479830/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Market Analyst, Trading (junior/senior)
 Firma: ČEZ Trading
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2000707235/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000707235/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Chceš nastartovat kariéru ve financích v Alze? (JPO29382)
 Firma: Alza.cz a.s.
 Lokalita: Praha – Holešovice
-Odkaz: https://www.jobs.cz/rpd/2000713191/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000713191/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Medior/Senior BI Analyst
 Firma: DoDo Czech s.r.o.
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2000700400/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000700400/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Senior Systems Test Engineer
 Firma: Novanta Česká republika s.r.o.
 Lokalita: Brno – Starý Lískovec
-Odkaz: https://www.jobs.cz/rpd/2000730917/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000730917/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Data Scientist for media and streaming service
 Firma: TV Nova s.r.o.
 Lokalita: Praha – Hlubočepy
-Odkaz: https://www.jobs.cz/rpd/2000606182/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000606182/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Support Consultant / Data Engineer - Microsoft Azure, BI (remote work possible)
 Firma: NoseDat s.r.o.
 Lokalita: Praha – Jinonice
-Odkaz: https://www.jobs.cz/rpd/2000659705/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000659705/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Senior pojistný/á matematik/matematička neživotního pojištění
 Firma: UNIQA
 Lokalita: Praha – Vokovice + 1 další lokalita
-Odkaz: https://www.jobs.cz/rpd/2000536903/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000536903/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
 Pozice: Business Data Analyst
 Firma: PRO.MED.CS Praha a.s.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2000702900/?searchId=d77f3959-9a25-4068-b1fa-48c2a563b633&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000702900/?searchId=864fb540-8844-4eaf-afad-d81a54257a21&rps=233
 ------------------------------
