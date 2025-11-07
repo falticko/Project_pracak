@@ -1,140 +1,135 @@
 Pozice: Backend Developer (Python/C#/Golang)
 Firma: Exact Control System a.s.
 Lokalita: Roztoky
-Odkaz: https://www.jobs.cz/rpd/2000833664/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000833664/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Junior Machine Learning Engineer
 Firma: Seznam.cz, a.s.
 Lokalita: Praha – Smíchov
-Odkaz: https://www.jobs.cz/rpd/2000837517/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000837517/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Power Platform Developer Junior
 Firma: PPL CZ s.r.o.
 Lokalita: Hradec Králové – Březhrad + 1 další lokalita
-Odkaz: https://www.jobs.cz/rpd/2000826015/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
-------------------------------
-Pozice: Junior GIS Analyst Intern
-Firma: Aon Central and Eastern Europe a.s.
-Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000837941/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000826015/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Junior Actuary Analyst
 Firma: Colonnade Insurance S.A., organizační složka
 Lokalita: Hlavní město Praha
-Odkaz: https://www.jobs.cz/rpd/2000862825/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000862825/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Junior Trading Analyst  🎓 - full-time or 0.8 FTE
 Firma: MVM CEEnergy CZ s.r.o.
 Lokalita: Praha – Strašnice
-Odkaz: https://www.jobs.cz/rpd/2000484427/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000484427/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Linux administrátor - junior/senior
 Firma: Bezpečnostní informační služba
 Lokalita: Hlavní město Praha
-Odkaz: https://www.jobs.cz/rpd/2000864302/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000864302/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Junior Software Developer - C, C++ - Aerospace
 Firma: Honeywell, spol. s r.o.
 Lokalita: Brno – Slatina
-Odkaz: https://www.jobs.cz/rpd/2000818796/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000818796/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Junior Inženýr Řídících Systémů (Flight Controls Engineer)
 Firma: Zuri.com SE
 Lokalita: Vestec
-Odkaz: https://www.jobs.cz/rpd/2000835787/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000835787/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Model Risk Analyst junior
 Firma: Komerční banka, a.s.
 Lokalita: Praha – Stodůlky
-Odkaz: https://www.jobs.cz/rpd/2000830718/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000830718/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Systémový/ technický specialista pro HR IS Vema - JUNIOR/MEDIOR
 Firma: Seyfor, a. s.
 Lokalita: Brno – Lesná
-Odkaz: https://www.jobs.cz/rpd/2000739520/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000739520/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Big Data Administrátor v OS Linux (junior/medior)
 Firma: Komerční banka, a.s.
 Lokalita: Praha – Stodůlky
-Odkaz: https://www.jobs.cz/rpd/2000718265/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000718265/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: JUNIOR System Engineer - Ultrasonic Sensors & Front Camera - vhodné pro absolventy
 Firma: VALEO PRAHA
 Lokalita: Praha – Strašnice
-Odkaz: https://www.jobs.cz/rpd/2000833962/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000833962/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: JUNIOR System Test Engineer (TRAINEE) - vhodné pro studenty či čestvé absolventy
 Firma: VALEO PRAHA
 Lokalita: Praha – Strašnice
-Odkaz: https://www.jobs.cz/rpd/2000826017/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000826017/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Senior Backend Engineer – Building Scalable Java Systems in the Cloud
 Firma: Stats Perform
 Lokalita: Praha – Libeň
-Odkaz: https://www.jobs.cz/rpd/2000844591/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000844591/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Senior Data Engineer
 Firma: NN
 Lokalita: Praha – Smíchov
-Odkaz: https://www.jobs.cz/rpd/2000764398/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000764398/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: End User Developed Applications Developer
 Firma: KBC Global Services NV
 Lokalita: Brno – Starý Lískovec
-Odkaz: https://www.jobs.cz/rpd/2000848163/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000848163/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Senior VMware Engineer
 Firma: NN
 Lokalita: Praha – Smíchov
-Odkaz: https://www.jobs.cz/rpd/2000591990/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000591990/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Process Engineer - PROJEKTY
 Firma: GoodCall s.r.o.
 Lokalita: Karlovarský kraj
-Odkaz: https://www.jobs.cz/rpd/2000821412/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000821412/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Data Scientist in Process Mining
 Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
 Lokalita: Brno – Štýřice
-Odkaz: https://www.jobs.cz/rpd/2000835638/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000835638/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: AI Data Science Engineer
 Firma: NESS Czech
 Lokalita: Hlavní město Praha
-Odkaz: https://www.jobs.cz/rpd/2000861539/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000861539/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Data Engineer in Process Mining
 Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
 Lokalita: Brno – Štýřice
-Odkaz: https://www.jobs.cz/rpd/2000858842/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000858842/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: AI Software Engineer
 Firma: DHL Information Services (Europe) s.r.o.
 Lokalita: Praha – Chodov
-Odkaz: https://www.jobs.cz/rpd/2000848096/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000848096/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Data Scientist for media and streaming service
 Firma: TV Nova s.r.o.
 Lokalita: Praha – Hlubočepy
-Odkaz: https://www.jobs.cz/rpd/2000606182/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000606182/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Senior pojistný/á matematik/matematička neživotního pojištění
 Firma: UNIQA
 Lokalita: Praha – Vokovice + 1 další lokalita
-Odkaz: https://www.jobs.cz/rpd/2000536903/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000536903/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Cyber Security – Consultant
 Firma: KPMG Česká republika, s.r.o.
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/1637395056/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/1637395056/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Business Data Analyst
 Firma: PRO.MED.CS Praha a.s.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2000702900/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000702900/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
 Pozice: Senior Middleware Administrator
 Firma: NN
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2000610156/?searchId=caf7cdb5-d5c0-468f-823d-f67f7eab4ce1&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000610156/?searchId=5a41831b-b544-4b95-bae7-179023a5180b&rps=233
 ------------------------------
