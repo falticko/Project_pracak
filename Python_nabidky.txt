@@ -1,95 +1,95 @@
 Pozice: Senior Backend Developer - Python, AWS, Kubernetes
 Firma: Konplan s.r.o.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000637710/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000637710/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: API agilní vývojář - junior (m/ž)
 Firma: ČSOB Československá obchodní banka, a. s.
 Lokalita: Praha – Radlice
-Odkaz: https://www.jobs.cz/rpd/2000894493/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000894493/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Junior vývojář podnikových aplikací v low-code platformě
 Firma: PŘEDVÝBĚR.CZ a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000972762/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000972762/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Junior Data Scientist - media & advertising
 Firma: Omnicom Media Group, s.r.o.
 Lokalita: Praha – Nusle
-Odkaz: https://www.jobs.cz/rpd/2000946183/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000946183/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Junior / Medior DevOps Engineer
 Firma: Skupina Klik.cz
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2000942454/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000942454/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Systémový/ technický specialista pro HR IS Vema - JUNIOR/MEDIOR
 Firma: Seyfor, a. s.
 Lokalita: Brno – Lesná
-Odkaz: https://www.jobs.cz/rpd/2000739520/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000739520/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Junior System Test Engineer (Trainee) - vhodné pro studenty nebo čerstvé absolventy
 Firma: VALEO PRAHA
 Lokalita: Praha – Strašnice
-Odkaz: https://www.jobs.cz/rpd/2000913544/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000913544/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Junior Quantitative Analyst
 Firma: Česká spořitelna, a.s.
 Lokalita: Praha – Krč
-Odkaz: https://www.jobs.cz/rpd/2000823016/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000823016/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Data Engineer (se zaměřením na Big Data)
 Firma: ADASTRA, s.r.o.
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2000460906/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000460906/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Senior / Staff AI Engineer – LLM Applications
 Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
 Lokalita: Brno – Štýřice
-Odkaz: https://www.jobs.cz/rpd/2000711759/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000711759/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Senior Data Engineer - Hybrid - Prague, Brno, České Budějovice
 Firma: Manpower IT
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2000930796/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000930796/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Data Scientist in Process Mining
 Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
 Lokalita: Brno – Štýřice
-Odkaz: https://www.jobs.cz/rpd/2000835638/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000835638/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Data Engineer in Process Mining
 Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
 Lokalita: Brno – Štýřice
-Odkaz: https://www.jobs.cz/rpd/2000858842/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000858842/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Power Platform Developer
 Firma: KBC Global Services NV
 Lokalita: Brno – Starý Lískovec
-Odkaz: https://www.jobs.cz/rpd/2000848163/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000848163/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Datový analytik / Developer (m/ž)
 Firma: JUSDA Europe s.r.o.
 Lokalita: Pardubice – Drozdice
-Odkaz: https://www.jobs.cz/rpd/2000940937/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000940937/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Data Scientist for media and streaming service
 Firma: TV Nova s.r.o.
 Lokalita: Praha – Hlubočepy
-Odkaz: https://www.jobs.cz/rpd/2000606182/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000606182/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Trainee in Risk Control
 Firma: COMMERZBANK Aktiengesellschaft, pobočka Praha
 Lokalita: Praha – Vinohrady
-Odkaz: https://www.jobs.cz/rpd/2000946141/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000946141/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Senior pojistný/á matematik/matematička neživotního pojištění
 Firma: UNIQA
 Lokalita: Praha – Vokovice + 1 další lokalita
-Odkaz: https://www.jobs.cz/rpd/2000536903/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000536903/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
 Pozice: Vývojář automatizovaných testů (Backend)
 Firma: Asseco Central Europe, a.s.
 Lokalita: Praha – Michle + 1 další lokalita
-Odkaz: https://www.jobs.cz/rpd/2000876670/?searchId=c0546201-d370-402e-9c6c-7b17e3b7240c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000876670/?searchId=89460db6-c03b-4bb0-b98e-cb0da5fb38ee&rps=233
 ------------------------------
