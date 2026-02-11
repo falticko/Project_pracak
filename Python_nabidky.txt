@@ -1,150 +1,150 @@
 Pozice: Junior Python Backend Developer
 Firma: Seznam.cz, a.s.
 Lokalita: Brno – Starý Lískovec
-Odkaz: https://www.jobs.cz/rpd/2001042684/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001042684/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Senior Backend Developer - Python, AWS, Kubernetes
 Firma: Konplan s.r.o.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000637710/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000637710/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Python / Automation Developer Intern (DPČ)
 Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
 Lokalita: Brno – Štýřice
-Odkaz: https://www.jobs.cz/rpd/2001040431/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001040431/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Process Development Specialist - Junior | TotalEnergies
 Firma: TotalEnergies Marketing Česká republika s.r.o.
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2001026829/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001026829/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Junior Mechatronic Engineer
 Firma: ZofiTech s.r.o.
 Lokalita: Praha – Letňany
-Odkaz: https://www.jobs.cz/rpd/2001041468/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001041468/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Junior Data Analytik (m/ž), možnost až 90% home office
 Firma: BARTON Consulting s.r.o.
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2000653516/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000653516/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Junior Flood Hazard Modeller (Coastal & Inland, 2D)
 Firma: Aon Central and Eastern Europe a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001018801/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001018801/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: IT Specialist (Junior)
 Firma: QUINTA-ANALYTICA s.r.o.
 Lokalita: Praha – Hostivař
-Odkaz: https://www.jobs.cz/rpd/2000999271/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000999271/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Junior specialista datového skladu
 Firma: ČEPS, a.s.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001037851/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001037851/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Junior Data and Integration Analyst
 Firma: Linet spol. s r.o.
 Lokalita: Slaný
-Odkaz: https://www.jobs.cz/rpd/2001005289/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001005289/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Junior Catastrophe Modeller
 Firma: Aon Central and Eastern Europe a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000983105/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000983105/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Junior analytik/čka tržních a likviditních rizik
 Firma: Česká spořitelna, a.s.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001042623/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001042623/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Junior Embedded Software Developer C/C++
 Firma: SII s.r.o.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2000995151/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000995151/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Junior analytik/čka kapitálové přiměřenosti - Praha
 Firma: MONETA Money Bank, a.s.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001026671/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001026671/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Specialista performance reportingu a finančního controllingu junior (m/ž)
 Firma: O2 Czech Republic a.s.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001007034/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001007034/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Data Scientist- logistika (Junior/medior)
 Firma: Notino s.r.o.
 Lokalita: Brno
-Odkaz: https://www.jobs.cz/rpd/2001007190/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001007190/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Junior Quantitative Analyst
 Firma: Česká spořitelna, a.s.
 Lokalita: Praha – Krč
-Odkaz: https://www.jobs.cz/rpd/2000823016/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000823016/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: IAM Specialista / IAM Analytik (Junior / Medior)
 Firma: teamIT s.r.o.
 Lokalita: Brno
-Odkaz: https://www.jobs.cz/rpd/2000989710/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000989710/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Specialista pro vývoj interních AI modelů
 Firma: Středočeský kraj
 Lokalita: Praha – Smíchov
-Odkaz: https://www.jobs.cz/rpd/2001005205/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001005205/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Data Engineer (se zaměřením na Big Data)
 Firma: ADASTRA, s.r.o.
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2000460906/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000460906/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Test analytik (m/ž) - automatizace testování elektronických systémů
 Firma: T-Mobile Czech Republic a.s.
 Lokalita: Mladá Boleslav – Mladá Boleslav II
-Odkaz: https://www.jobs.cz/rpd/2001035509/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001035509/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Fullstack Developer Automotive
 Firma: Unicorn
 Lokalita: Liberec – Liberec IV-Perštýn
-Odkaz: https://www.jobs.cz/rpd/2001024584/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001024584/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Senior SW Engineer
 Firma: ABB s.r.o.
 Lokalita: Plzeň – Východní Předměstí
-Odkaz: https://www.jobs.cz/rpd/2001021464/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001021464/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Data Analyst Intern – Process Mining & Analytics (DPČ)
 Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
 Lokalita: Brno – Štýřice
-Odkaz: https://www.jobs.cz/rpd/2001040439/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001040439/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Senior Data Scientist for Time Series projects
 Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
 Lokalita: Brno – Štýřice
-Odkaz: https://www.jobs.cz/rpd/2000983579/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000983579/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Senior Flood Hazard Modeller (Coastal & Inland, 2D)
 Firma: Aon Central and Eastern Europe a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001018817/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001018817/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: VMWare Engineer
 Firma: NN
 Lokalita: Praha – Smíchov
-Odkaz: https://www.jobs.cz/rpd/2001046550/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001046550/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Jun-Sen Planning & Analytics Consultant (IBM Planning Analytics/SAP Analytics Cloud/Jedox)
 Firma: ADASTRA, s.r.o.
 Lokalita: Hlavní město Praha
-Odkaz: https://www.jobs.cz/rpd/2000722101/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000722101/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Hardwarář/ka - elektronik vývojář  - vývoj HW
 Firma: EGMedical, s.r.o.
 Lokalita: Brno – Židenice
-Odkaz: https://www.jobs.cz/rpd/2001013853/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001013853/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
 Pozice: Generative AI Senior Consultant
 Firma: BearingPoint s.r.o.
 Lokalita: Praha – Žižkov
-Odkaz: https://www.jobs.cz/rpd/2000992414/?searchId=54311535-613b-4b8a-901b-39bec0dcb449&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000992414/?searchId=03115197-b7d7-4207-9ada-409574441de1&rps=233
 ------------------------------
