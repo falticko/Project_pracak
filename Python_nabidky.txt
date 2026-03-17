@@ -1,150 +1,150 @@
 Pozice: Python vývojář - vhodné i pro juniory
 Firma: ERA a.s.
 Lokalita: Pardubice – Pardubičky
-Odkaz: https://www.jobs.cz/rpd/2001065325/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001065325/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Python Developer - Data engineering, až 100% home-office
 Firma: BARTON Consulting s.r.o.
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2001093951/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001093951/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Senior Backend Developer - Python, AWS, Kubernetes
 Firma: Konplan s.r.o.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000637710/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000637710/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Python Backend Developer pro Seznam Zprávy
 Firma: Seznam.cz, a.s.
 Lokalita: Brno – Starý Lískovec
-Odkaz: https://www.jobs.cz/rpd/2001042684/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001042684/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Junior programátor C++ pro Imaging Software (vhodné pro absolventy VŠ)
 Firma: PŘEDVÝBĚR.CZ a.s.
 Lokalita: Praha – Hostivař
-Odkaz: https://www.jobs.cz/rpd/2001119281/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001119281/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Junior AI & Data Designer
 Firma: Česká spořitelna, a.s.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001077262/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001077262/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Junior Flood Hazard Modeller (Coastal & Inland, 2D)
 Firma: Aon Central and Eastern Europe a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001018801/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001018801/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Junior Data Analytik
 Firma: urbiq s.r.o.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001067327/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001067327/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Datový analytik (Junior/Medior)
 Firma: XTUNING s.r.o.
 Lokalita: Jihlava – Hruškové Dvory
-Odkaz: https://www.jobs.cz/rpd/2001065915/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001065915/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Junior/Medior Gas Trader
 Firma: Powertica Commodities AG, odštěpný závod
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001099235/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001099235/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: IT Administrátor / DevOps Junior
 Firma: T1 Solution, s.r.o.
 Lokalita: Brno – Pisárky
-Odkaz: https://www.jobs.cz/rpd/2001106745/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001106745/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Junior Catastrophe Modeller
 Firma: Aon Central and Eastern Europe a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000983105/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000983105/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: JUNIOR/MEDIOR Servisní Engineer (Failure Analysis Engineer)
 Firma: Wistron InfoComm (Czech), s.r.o.
 Lokalita: Brno – Černovice
-Odkaz: https://www.jobs.cz/rpd/2000906477/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000906477/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Junior Business Analyst
 Firma: Energetický a průmyslový holding, a.s.
 Lokalita: Praha – Staré Město
-Odkaz: https://www.jobs.cz/rpd/2001113060/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001113060/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Linux systémový administrátor - příležitost pro juniory! (m/ž)
 Firma: Foxconn Czech Republic
 Lokalita: Pardubice – Pardubičky
-Odkaz: https://www.jobs.cz/rpd/2001082775/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001082775/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Junior analytik/čka tržních a likviditních rizik
 Firma: Česká spořitelna, a.s.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001042623/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001042623/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Specialista pro vývoj interních AI modelů
 Firma: Středočeský kraj
 Lokalita: Praha – Smíchov
-Odkaz: https://www.jobs.cz/rpd/2001005205/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001005205/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: ⋙Test Application developer⋘ (f/m)
 Firma: mBlue Czech, s.r.o.
 Lokalita: Hlavní město Praha
-Odkaz: https://www.jobs.cz/rpd/2001079795/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001079795/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Senior Performance Test Engineer
 Firma: HID Czech s.r.o.
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2001099778/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001099778/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Senior SW Engineer
 Firma: ABB s.r.o.
 Lokalita: Plzeň – Východní Předměstí
-Odkaz: https://www.jobs.cz/rpd/2001021464/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001021464/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Senior Data Scientist for Time Series projects
 Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
 Lokalita: Brno – Štýřice
-Odkaz: https://www.jobs.cz/rpd/2001121373/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001121373/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Senior Flood Hazard Modeller (Coastal & Inland, 2D)
 Firma: Aon Central and Eastern Europe a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001018817/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001018817/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Generative AI Senior Consultant
 Firma: BearingPoint s.r.o.
 Lokalita: Praha – Žižkov
-Odkaz: https://www.jobs.cz/rpd/2000992414/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000992414/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Backend Software Developer – Cloud Platform
 Firma: DHI a.s.
 Lokalita: Praha – Vršovice
-Odkaz: https://www.jobs.cz/rpd/2001111958/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001111958/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: IT Talent Acquisition Partner
 Firma: IDC Central Europe, the Middle East & Africa
 Lokalita: Praha – Staré Město
-Odkaz: https://www.jobs.cz/rpd/2001084051/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001084051/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: AI Software Engineer
 Firma: DHL Information Services (Europe) s.r.o.
 Lokalita: Praha – Chodov
-Odkaz: https://www.jobs.cz/rpd/2001110690/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001110690/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Data Analyst in Forensic Technology Services team
 Firma: PricewaterhouseCoopers Česká republika, s.r.o.
 Lokalita: Praha – Nusle + 1 další lokalita
-Odkaz: https://www.jobs.cz/rpd/2001107759/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001107759/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Senior BI/Data analyst – Technology Consulting
 Firma: PricewaterhouseCoopers Česká republika, s.r.o.
 Lokalita: Praha – Nusle
-Odkaz: https://www.jobs.cz/rpd/2001109014/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001109014/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Data Scientist for media and streaming service
 Firma: TV Nova s.r.o.
 Lokalita: Praha – Hlubočepy
-Odkaz: https://www.jobs.cz/rpd/2000606182/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000606182/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
 Pozice: Trainee in Risk Control
 Firma: COMMERZBANK Aktiengesellschaft, pobočka Praha
 Lokalita: Praha – Vinohrady
-Odkaz: https://www.jobs.cz/rpd/2000946141/?searchId=927ec87e-d805-456a-b27a-505cd16f357c&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000946141/?searchId=23c5bc80-c481-469e-856c-f5df2a587f4b&rps=233
 ------------------------------
