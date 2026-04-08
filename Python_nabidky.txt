@@ -1,150 +1,150 @@
 Pozice: Python Developer
 Firma: FDC Servers.net a.s.
 Lokalita: Zlín
-Odkaz: https://www.jobs.cz/rpd/2001134206/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001134206/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Senior Backend Developer - Python, AWS, Kubernetes
 Firma: Konplan s.r.o.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000637710/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000637710/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Python QA Engineer for Sports Tech Products
 Firma: Stats Perform
 Lokalita: Praha – Libeň
-Odkaz: https://www.jobs.cz/rpd/2001125731/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001125731/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Python Backend Developer pro Seznam Zprávy
 Firma: Seznam.cz, a.s.
 Lokalita: Brno – Starý Lískovec
-Odkaz: https://www.jobs.cz/rpd/2001042684/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001042684/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Junior programátor C++ pro Imaging Software (vhodné pro absolventy VŠ)
 Firma: PŘEDVÝBĚR.CZ a.s.
 Lokalita: Praha – Hostivař
-Odkaz: https://www.jobs.cz/rpd/2001119281/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001119281/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Student IT / Junior Developer (dlouhodobější spolupráce od 300 Kč/h)
 Firma: PersON Solutions s.r.o.
 Lokalita: Ostrava – Poruba
-Odkaz: https://www.jobs.cz/rpd/2001159886/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001159886/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Vývojář/ka SW - junior
 Firma: JABLOTRON a.s.
 Lokalita: Jablonec nad Nisou
-Odkaz: https://www.jobs.cz/rpd/2001149736/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001149736/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Junior Risk Controller
 Firma: Ezpada s.r.o.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001128461/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001128461/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Linux Administrator (Junior/Medior/Senior)
 Firma: GoodCall s.r.o.
 Lokalita: Pardubice – Pardubice-Staré Město
-Odkaz: https://www.jobs.cz/rpd/2001133378/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001133378/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Junior Software Developer
 Firma: AXA ASSISTANCE CZ, s.r.o.
 Lokalita: Ostrava – Moravská Ostrava
-Odkaz: https://www.jobs.cz/rpd/2001071631/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001071631/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: VP7 (FNO) Odborný pracovník (junior/postdoc) 1 (VP7, projekt LERCO, reg. č. CZ.10.03.01/
 Firma: Fakultní nemocnice Ostrava
 Lokalita: Ostrava – Poruba
-Odkaz: https://www.jobs.cz/rpd/2001152703/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
-------------------------------
-Pozice: Junior/Medior Network Engineer - Praha
-Firma: ANECT a.s.
-Lokalita: Praha – Nusle
-Odkaz: https://www.jobs.cz/rpd/2001146781/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
-------------------------------
-Pozice: Junior Catastrophe Modeller
-Firma: Aon Central and Eastern Europe a.s.
-Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2000983105/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
-------------------------------
-Pozice: IT technik junior
-Firma: IQLANDIA, o.p.s.
-Lokalita: Liberec – Liberec III-Jeřáb
-Odkaz: https://www.jobs.cz/rpd/2001138143/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
-------------------------------
-Pozice: Junior Quantitative Analyst, Trading
-Firma: ČEZ Trading
-Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001153582/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001152703/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: JUNIOR/MEDIOR Servisní Engineer (Failure Analysis Engineer)
 Firma: Wistron InfoComm (Czech), s.r.o.
 Lokalita: Brno – Černovice
-Odkaz: https://www.jobs.cz/rpd/2000906477/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000906477/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
+------------------------------
+Pozice: Junior/Medior Network Engineer - Praha
+Firma: ANECT a.s.
+Lokalita: Praha – Nusle
+Odkaz: https://www.jobs.cz/rpd/2001146781/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
+------------------------------
+Pozice: Junior Catastrophe Modeller
+Firma: Aon Central and Eastern Europe a.s.
+Lokalita: Praha – Nové Město
+Odkaz: https://www.jobs.cz/rpd/2000983105/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
+------------------------------
+Pozice: IT technik junior
+Firma: IQLANDIA, o.p.s.
+Lokalita: Liberec – Liberec III-Jeřáb
+Odkaz: https://www.jobs.cz/rpd/2001138143/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
+------------------------------
+Pozice: Junior Quantitative Analyst, Trading
+Firma: ČEZ Trading
+Lokalita: Praha – Michle
+Odkaz: https://www.jobs.cz/rpd/2001153582/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: IT audit – Junior (Brno)
 Firma: KPMG Česká republika, s.r.o.
 Lokalita: Brno – Trnitá
-Odkaz: https://www.jobs.cz/rpd/2001142222/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001142222/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: IT audit – Junior  (Praha)
 Firma: KPMG Česká republika, s.r.o.
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2001009256/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001009256/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Junior Data Scientist
 Firma: Česká spořitelna, a.s.
 Lokalita: Praha – Krč
-Odkaz: https://www.jobs.cz/rpd/2000823016/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000823016/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: IT Administrátor / DevOps Junior
 Firma: T1 Solution, s.r.o.
 Lokalita: Brno – Pisárky
-Odkaz: https://www.jobs.cz/rpd/2001106745/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001106745/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Data Platforms Administrator (junior/medior)
 Firma: Komerční banka, a.s.
 Lokalita: Praha – Stodůlky
-Odkaz: https://www.jobs.cz/rpd/2001067815/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001067815/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Junior Business Analyst
 Firma: Energetický a průmyslový holding, a.s.
 Lokalita: Praha – Staré Město
-Odkaz: https://www.jobs.cz/rpd/2001113060/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001113060/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Senior Data Scientist
 Firma: Lear Corporation Czech Republic s.r.o.
 Lokalita: Plzeň – Skvrňany
-Odkaz: https://www.jobs.cz/rpd/2001127650/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001127650/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: AI Solution Architect
 Firma: ableneo Česko s.r.o.
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2001151058/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001151058/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Senior Data Engineer – Trading
 Firma: ČEZ Trading
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001142195/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001142195/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Discover Trainee Program - AI Specialist
 Firma: Vodafone Czech Republic a.s.
 Lokalita: Praha – Stodůlky
-Odkaz: https://www.jobs.cz/rpd/2001124605/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001124605/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Jun-Sen Planning & Analytics Consultant (IBM Planning Analytics/SAP Analytics Cloud/Jedox)
 Firma: ADASTRA, s.r.o.
 Lokalita: Hlavní město Praha
-Odkaz: https://www.jobs.cz/rpd/2000722101/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000722101/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: AI Software Engineer
 Firma: DHL Information Services (Europe) s.r.o.
 Lokalita: Praha – Chodov
-Odkaz: https://www.jobs.cz/rpd/2001161165/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001161165/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: AI Senior Team Leader, Software Engineering
 Firma: IDC Central Europe, the Middle East & Africa
 Lokalita: Ostrava
-Odkaz: https://www.jobs.cz/rpd/2001149052/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001149052/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
 Pozice: Data Scientist for media and streaming service
 Firma: TV Nova s.r.o.
 Lokalita: Praha – Hlubočepy
-Odkaz: https://www.jobs.cz/rpd/2000606182/?searchId=b5407a12-9a5d-4036-bc67-b324905de886&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000606182/?searchId=ffa2f692-0dab-4702-810e-42e33b862059&rps=233
 ------------------------------
