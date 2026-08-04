@@ -1,110 +1,110 @@
-Pozice: Principal Python Engineer for Agentic AI
-Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
-Lokalita: Brno – Štýřice
-Odkaz: https://www.jobs.cz/rpd/2001052682/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
-------------------------------
 Pozice: Python vývojář (m,ž)
 Firma: Modul Servis s.r.o.
 Lokalita: Plzeň – Nová Hospoda
-Odkaz: https://www.jobs.cz/rpd/2001221788/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001221788/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
+------------------------------
+Pozice: Principal Python Engineer for Agentic AI
+Firma: Deutsche Telekom Services Europe Czech Republic s.r.o.
+Lokalita: Brno – Štýřice
+Odkaz: https://www.jobs.cz/rpd/2001052682/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Data science engineer / Python developer - full remote
 Firma: BARTON Consulting s.r.o.
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2001329645/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001329645/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: JUNIOR FULL-STACK & AI ENGINEER
 Firma: RENOMIA, a. s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001342504/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001342504/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Junior GIS Analyst at Aon Impact Forecasting
 Firma: Aon Central and Eastern Europe a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001198210/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001198210/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: JUNIOR AUTOMATION DEVELOPER
 Firma: KNORR-BREMSE Systémy pro užitková vozidla ČR, s.r.o.
 Lokalita: Stráž nad Nisou
-Odkaz: https://www.jobs.cz/rpd/2001352128/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001352128/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: AI engineer junior
 Firma: Solar Turbines EAME s.r.o.
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2001237017/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001237017/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: IT audit – Junior  (Praha)
 Firma: KPMG Česká republika, s.r.o.
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2001009256/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001009256/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Inženýr pro vysokofrekvenční měřící techniku a metrologii (m/ž) Junior/Senior
 Firma: ROHDE & SCHWARZ
 Lokalita: Vimperk – Vimperk III
-Odkaz: https://www.jobs.cz/rpd/2000765608/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000765608/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Junior DWH System Administrator
 Firma: Generali Česká pojišťovna
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001304922/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001304922/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Junior DevOps Engineer (Stáž / Trainee)
 Firma: MONET+,a.s.
 Lokalita: Brno – Ponava
-Odkaz: https://www.jobs.cz/rpd/2001335328/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001335328/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Linux systémový administrátor - příležitost pro zapálené juniory! (m/ž)
 Firma: Foxconn Czech Republic
 Lokalita: Pardubice – Pardubičky
-Odkaz: https://www.jobs.cz/rpd/2001318909/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001318909/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: IT BI/DWH specialista*ka – junior/medior
 Firma: Raiffeisenbank a.s.
 Lokalita: Praha – Nusle
-Odkaz: https://www.jobs.cz/rpd/2001272827/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001272827/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: AI Engineer – LLM, MCP, agentní systémy
 Firma: TV Prima
 Lokalita: Praha – Strašnice
-Odkaz: https://www.jobs.cz/rpd/2001352046/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001352046/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Data Engineer (se zaměřením na Big Data)
 Firma: ADASTRA, s.r.o.
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2001307234/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001307234/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Django Developer
 Firma: KBC Global Services NV
 Lokalita: Brno – Starý Lískovec
-Odkaz: https://www.jobs.cz/rpd/2001179798/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001179798/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: SENIOR DATA ENGINEER - INTRADAY TRADING
 Firma: ČEZ Trading
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001322379/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001322379/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Senior DevOps Engineer - Security (f/m)
 Firma: T-Mobile Czech Republic a.s.
 Lokalita: Praha – Chodov
-Odkaz: https://www.jobs.cz/rpd/2001317453/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001317453/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Data Scientist & Senior Data Analyst – Data Analytics & AI
 Firma: BearingPoint s.r.o.
 Lokalita: Praha – Žižkov
-Odkaz: https://www.jobs.cz/rpd/2001330904/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001330904/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: Generative AI Senior Consultant
 Firma: BearingPoint s.r.o.
 Lokalita: Praha – Žižkov
-Odkaz: https://www.jobs.cz/rpd/2001330894/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001330894/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: SR. POWER PLATFORM DEVELOPER
 Firma: Atlas Copco Services s.r.o.
 Lokalita: Brno
-Odkaz: https://www.jobs.cz/rpd/2001207308/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001207308/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
 Pozice: DevOps Engeneer - Security (f/m)
 Firma: T-Mobile Czech Republic a.s.
 Lokalita: Praha – Chodov
-Odkaz: https://www.jobs.cz/rpd/2000793171/?searchId=5ad51223-6e8f-434d-a058-d36ef9d1f70e&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000793171/?searchId=3dff982a-be1b-4e50-9b94-3e95e71d7572&rps=233
 ------------------------------
