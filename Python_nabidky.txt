@@ -1,95 +1,100 @@
 Pozice: Junior Middleware Administrator (f/m/d)
 Firma: Deutsche Börse Group
 Lokalita: Praha – Karlín
-Odkaz: https://www.jobs.cz/rpd/2001412775/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001412775/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Junior AI Developer
 Firma: TATRA TRUCKS a. s.
 Lokalita: Kopřivnice
-Odkaz: https://www.jobs.cz/rpd/2001459292/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001459292/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Junior GIS Analyst at Aon Impact Forecasting
 Firma: Aon Central and Eastern Europe a.s.
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001198210/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001198210/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: IT DEVOPS Specialist - Junior
 Firma: Up Česká republika s.r.o.
 Lokalita: Praha – Braník
-Odkaz: https://www.jobs.cz/rpd/2001460059/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001460059/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Programátor/ka (junior) – vývoj aplikace pro železniční zabezpečovací systémy
 Firma: STARMON s.r.o.
 Lokalita: Pardubice – Pardubice-Staré Město
-Odkaz: https://www.jobs.cz/rpd/2001416039/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001416039/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Investment Analyst Junior – Public Equities & M&A
 Firma: AKIPIA a.s.
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2001441181/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
-------------------------------
-Pozice: Junior Catastrophe Modeller
-Firma: Aon Central and Eastern Europe a.s.
-Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001432991/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
-------------------------------
-Pozice: Junior Embedded Software Developer
-Firma: NXP Semiconductors Czech Republic s.r.o.
-Lokalita: Brno – Brno-město + 1 další lokalita
-Odkaz: https://www.jobs.cz/rpd/2001420988/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
-------------------------------
-Pozice: Control Algorithm Engineer (Aerospace) - junior/medior
-Firma: Adamantem HR s.r.o.
-Lokalita: Hlavní město Praha
-Odkaz: https://www.jobs.cz/rpd/2001412984/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
-------------------------------
-Pozice: Inženýr pro vysokofrekvenční měřící techniku a metrologii (m/ž) Junior/Senior
-Firma: ROHDE & SCHWARZ
-Lokalita: Praha – Dejvice
-Odkaz: https://www.jobs.cz/rpd/2001441162/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001441181/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: HW Designer – Junior+
 Firma: Zuri.com SE
 Lokalita: Vestec
-Odkaz: https://www.jobs.cz/rpd/2001415011/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001415011/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
+------------------------------
+Pozice: Junior Ethical Hacker (f/m)
+Firma: T-Mobile Czech Republic a.s.
+Lokalita: Praha – Chodov
+Odkaz: https://www.jobs.cz/rpd/2001179906/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Vimperk - Inženýr pro vysokofrekvenční měřící techniku a metrologii (m/ž) Junior/Senior
 Firma: ROHDE & SCHWARZ
 Lokalita: Vimperk – Vimperk III
-Odkaz: https://www.jobs.cz/rpd/2000765608/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2000765608/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
+------------------------------
+Pozice: Junior Catastrophe Modeller
+Firma: Aon Central and Eastern Europe a.s.
+Lokalita: Praha – Nové Město
+Odkaz: https://www.jobs.cz/rpd/2001432991/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
+------------------------------
+Pozice: Junior Embedded Software Developer
+Firma: NXP Semiconductors Czech Republic s.r.o.
+Lokalita: Brno – Brno-město + 1 další lokalita
+Odkaz: https://www.jobs.cz/rpd/2001420988/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
+------------------------------
+Pozice: Control Algorithm Engineer (Aerospace) - junior/medior
+Firma: Adamantem HR s.r.o.
+Lokalita: Hlavní město Praha
+Odkaz: https://www.jobs.cz/rpd/2001412984/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
+------------------------------
+Pozice: Inženýr pro vysokofrekvenční měřící techniku a metrologii (m/ž) Junior/Senior
+Firma: ROHDE & SCHWARZ
+Lokalita: Praha – Dejvice
+Odkaz: https://www.jobs.cz/rpd/2001441162/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Junior konzultant/ka nebo vývojář/ka modelů – Řízení kreditního rizika
 Firma: EY
 Lokalita: Praha
-Odkaz: https://www.jobs.cz/rpd/2001439010/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001439010/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: IT BI/DWH specialista*ka – junior/medior
 Firma: Raiffeisenbank a.s.
 Lokalita: Praha – Nusle
-Odkaz: https://www.jobs.cz/rpd/2001272827/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001272827/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Junior Forward Deployed Software Engineer
 Firma: EY
 Lokalita: Praha – Nové Město
-Odkaz: https://www.jobs.cz/rpd/2001433469/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001433469/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Senior SW Engineer (Future Leader)
 Firma: ABB s.r.o.
 Lokalita: Plzeň – Východní Předměstí
-Odkaz: https://www.jobs.cz/rpd/2001021464/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001021464/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Planning consultant - příležitost pro absolventy ekonomických a IT oborů s praxí při škole
 Firma: ADASTRA CZ s.r.o.
 Lokalita: Hlavní město Praha
-Odkaz: https://www.jobs.cz/rpd/2001387390/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001387390/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Senior Data Engineer - Intraday Trading
 Firma: ČEZ Trading
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001322379/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001322379/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
 Pozice: Senior Reserving Actuary - Life
 Firma: VIG RE zajišťovna, a.s.
 Lokalita: Praha – Michle
-Odkaz: https://www.jobs.cz/rpd/2001433934/?searchId=5970bfae-b5c4-4cf1-a23b-015340b9544a&rps=233
+Odkaz: https://www.jobs.cz/rpd/2001433934/?searchId=81d18fdb-8975-4296-b5b0-1bb565665a30&rps=233
 ------------------------------
